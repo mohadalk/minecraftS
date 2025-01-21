@@ -1,54 +1,36 @@
-[14:45:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:45:07] [ServerMain/INFO]: Loaded 1337 recipes
-[14:45:07] [ServerMain/INFO]: Loaded 1448 advancements
-[14:45:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[14:45:07] [Server thread/INFO]: Loading properties
-[14:45:07] [Server thread/INFO]: Default game type: SURVIVAL
-[14:45:07] [Server thread/INFO]: Generating keypair
-[14:45:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:45:07] [Server thread/INFO]: Using default channel type
-[14:45:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:45:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:45:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:45:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:45:07] [Server thread/INFO]: Preparing level "world"
-[14:45:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:45:11] [Server thread/INFO]: Time elapsed: 2884 ms
-[14:45:11] [Server thread/INFO]: Done (3.354s)! For help, type "help"
-[14:46:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:48:04] [Server thread/INFO]: alks99[/[0:0:0:0:0:0:0:1]:54328] logged in with entity id 3 at (200.30344849782065, 64.0, 147.6132848181284)
-[14:48:04] [Server thread/INFO]: alks99 joined the game
-[14:48:09] [Server thread/INFO]: alks99 lost connection: Disconnected
-[14:48:09] [Server thread/INFO]: alks99 left the game
-[14:48:54] [Server thread/INFO]: Nawadil[/[0:0:0:0:0:0:0:1]:54350] logged in with entity id 337 at (226.57714463796708, 64.0, 142.2132169627988)
-[14:48:54] [Server thread/INFO]: Nawadil joined the game
-[14:49:00] [Server thread/INFO]: alks99[/127.0.0.1:54356] logged in with entity id 1361 at (200.30344849782065, 64.0, 147.6132848181284)
-[14:49:00] [Server thread/INFO]: alks99 joined the game
-[15:00:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=152, y=7, z=-2290} jh{x=152, y=6, z=-2290}
-[15:01:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=152, y=7, z=-2289} jh{x=152, y=8, z=-2289}
-[15:01:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=7, z=-2289} jh{x=152, y=8, z=-2289}
-[15:01:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=150, y=7, z=-2289} jh{x=152, y=8, z=-2289}
-[15:21:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=34, y=56, z=-2321} jh{x=34, y=55, z=-2321}
-[15:28:16] [Server thread/INFO]: alks99 lost connection: Disconnected
-[15:28:16] [Server thread/INFO]: alks99 left the game
-[15:36:20] [Server thread/INFO]: Nawadil has made the advancement [Acquire Hardware]
-[15:41:40] [Server thread/INFO]: Nawadil lost connection: Disconnected
-[15:41:40] [Server thread/INFO]: Nawadil left the game
-[15:42:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:49:11] [Server thread/INFO]: Nawadil[/[0:0:0:0:0:0:0:1]:59384] logged in with entity id 21398 at (151.30000001192093, 4.0, -2262.3874564600333)
-[18:49:11] [Server thread/INFO]: Nawadil joined the game
-[19:11:15] [Server thread/INFO]: Nawadil has made the advancement [Hot Stuff]
-[19:22:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=139, y=-1, z=-2307} jh{x=139, y=0, z=-2307}
-[20:24:08] [Server thread/INFO]: Nawadil lost connection: Timed out
-[20:24:08] [Server thread/INFO]: Nawadil left the game
-[20:24:25] [Server thread/INFO]: alks99[/127.0.0.1:61791] logged in with entity id 130469 at (164.40924591744147, 48.41373046676241, -2289.5257649075375)
-[20:24:25] [Server thread/INFO]: alks99 joined the game
-[20:24:50] [Server thread/INFO]: alks99 lost connection: Disconnected
-[20:24:50] [Server thread/INFO]: alks99 left the game
-[20:25:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:42:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:42:25] [ServerMain/INFO]: Loaded 1337 recipes
+[20:42:25] [ServerMain/INFO]: Loaded 1448 advancements
+[20:42:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:42:25] [Server thread/INFO]: Loading properties
+[20:42:25] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:25] [Server thread/INFO]: Generating keypair
+[20:42:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:42:25] [Server thread/INFO]: Using default channel type
+[20:42:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:42:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:42:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:42:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:42:25] [Server thread/INFO]: Preparing level "world"
+[20:42:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:42:27] [Server thread/INFO]: Time elapsed: 1612 ms
+[20:42:27] [Server thread/INFO]: Done (1.857s)! For help, type "help"
+[20:43:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:43:43] [Server thread/INFO]: alks99[/127.0.0.1:62783] logged in with entity id 3 at (160.13430556782748, 63.875, -2289.9889649168344)
+[20:43:43] [Server thread/INFO]: alks99 joined the game
+[20:46:09] [Server thread/INFO]: mohadmsm[/[0:0:0:0:0:0:0:1]:62855] logged in with entity id 3325 at (-959.3477722323374, 161.1875, -688.2365537490589)
+[20:46:09] [Server thread/INFO]: mohadmsm joined the game
+[20:46:45] [Server thread/WARN]: mohadmsm moved too quickly! 13.240170271939178,-9.446571764937545,-6.367849099595446
+[20:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[20:48:41] [Server thread/INFO]: mohadmsm has made the advancement [Eye Spy]
+[20:49:05] [Server thread/INFO]: mohadmsm has made the advancement [The End?]
+[21:21:31] [Server thread/WARN]: mohadmsm moved wrongly!
+[21:24:09] [Server thread/INFO]: alks99 lost connection: Disconnected
+[21:24:09] [Server thread/INFO]: alks99 left the game
+[21:24:11] [Server thread/INFO]: mohadmsm lost connection: Disconnected
+[21:24:11] [Server thread/INFO]: mohadmsm left the game
+[21:25:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
