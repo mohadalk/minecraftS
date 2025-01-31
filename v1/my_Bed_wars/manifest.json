@@ -1,0 +1,18 @@
+{
+   "format_version": 2,
+  "header": {
+    "name": "MOHAD_BED_WARS2",
+    "description": "",
+    "version": [1, 0, 0],
+    "base_game_version" : [1, 21, 51],
+    "lock_template_options" : true,
+    "uuid": "460c027e-52ab-4487-8ae8-f00fa773ca1a"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "world_template",
+      "uuid": "12342d7c-1ede-4edd-a5f7-861c68608753"
+    }
+  ]
+}

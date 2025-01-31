@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by sokor",
+        "name": "Structure Behavior Pack",
+        "uuid": "fd818a8e-4574-416b-97c8-5e9ec62e6cb1",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "Made by sokor",
+            "type": "data",
+            "uuid": "60109291-fcac-4bea-be51-e5acbabdfb6b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
